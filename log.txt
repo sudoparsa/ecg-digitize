@@ -1,0 +1,1 @@
+Segmentation error in file ECG_Record/27976-3         _200612101039.jpg
